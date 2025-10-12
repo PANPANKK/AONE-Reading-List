@@ -100,9 +100,9 @@ Your Name
 
 ## 🧑‍💻 Maintainers
 
-- **负责人**: [Peiyuan Jiang]  
 - **团队**: [AONE Group]  
-- **联系邮箱**: [darcy981020@gamil.com]
+- **负责人**: [Qiao Liu]  
+- **联系邮箱**: [qliu@uestc.edu.cn]
 
 ---
 
