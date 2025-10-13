@@ -49,11 +49,11 @@ paper-reading-list/
 │   ├── bob/
 │   └── ...
 └── Resources/             # 阅读辅助资料，如推荐文献、工具、模板等
-│   ├── [阅读模板](./Resources/reading_template.md)
-│   ├── [参考链接](./Resources/reference_links.md)
+│   ├── [阅读模板][`./Resources/reading_template.md`]
+│   ├── [参考链接][`./Resources/reference_links.md`]
 │   └── ...
 │ 
-└── [Life/ 💬 生活感悟区](./Life/README.md)
+└── [Life/ 💬 生活感悟区][`./Life/README.md`]
 │   ├── reflections/
 │   └── ...
 ```
@@ -73,7 +73,7 @@ paper-reading-list/
 
 ## 🧩 阅读笔记模板
 
-> 📘 位于 [`resources/reading_template.md`](./Resources/reading_template.md)
+> 📘 位于 [`Resources/reading_template.md`](./Resources/reading_template.md)
 
 ```
 # Paper Title
