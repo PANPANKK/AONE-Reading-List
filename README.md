@@ -1,17 +1,17 @@
-# 🧠 AONE Group Paper Reading List  
-**University of Electronic Science and Technology of China (UESTC)**  
+# 🧠 Paper Reading List  
+**电子科技大学 · AONE实验室（AONE Lab, UESTC）**
 
-欢迎来到我们组的 **Paper Reading List** 📚  
-本仓库用于 **组织、记录和追踪组内的论文阅读与分享活动**，帮助大家系统性地学习前沿研究进展、总结重点与洞察。
+> “Reading one paper may inspire a thought; reading a hundred may build a vision.”  
+> —— 研读一篇论文启发灵感，研读百篇论文构筑视野。
 
 ---
 
 ## 🌟 仓库功能
 
-- 🗂️ **论文归档**：按主题、会议或阅读日期整理阅读过的论文。
+- 🗂️ **论文归档**：按汇报主题、汇报人及日期整理阅读过的论文。
 - 📝 **阅读总结**：每篇论文都附有组内成员的阅读笔记与讨论要点。
-- 🔍 **主题索引**：方便检索各领域相关论文（如多模态学习、图神经网络、LLM 等）。
-- 📅 **分享记录**：追踪每周/每月组会的分享人及分享时间。
+- 🔍 **主题索引**：方便检索各领域中的一些代表性论文（如计算机视觉、多模态学习、LLM 等）。
+- 📅 **分享记录**：追踪每周/每月组会的分享人、分享时间及分享内容，便于回顾。
 - 🤝 **协作机制**：支持大家共同添加、评论、改进阅读笔记。
 
 ---
@@ -37,9 +37,14 @@ paper-reading-list/
 │   ├── bob/
 │   └── ...
 └── resources/             # 阅读辅助资料，如推荐文献、工具、模板等
-    ├── reading_template.md （每位同学新读一篇论文时，基于该模板新建笔记文件，建议命名：YYYY-MM-DD_<short-title>.md）
-    ├── reference_links.md   (用于收集整理论文阅读时常用的参考链接、工具和资源网站,所有成员都可以持续补充与更新（建议按类别添加）。)
-    └── ...
+│   ├── reading_template.md （每位同学新读一篇论文时，基于该模板新建笔记文件，建议命名：YYYY-MM-DD_<short-title>.md）
+│   ├── reference_links.md   (用于收集整理论文阅读时常用的参考链接、工具和资源网站,所有成员都可以持续补充与更新（建议按类别添加）。)
+│   └── ...
+│ 
+└── life/  # 💬 生活感悟与实验室趣事留言区
+│   ├── README.md          # 模块说明与留言守则
+│   ├── reflections/       # 科研生活的思考与感悟
+│   └── ...
 ```
 
 ---
