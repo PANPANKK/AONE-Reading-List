@@ -6,12 +6,24 @@
 
 ---
 
+## 📚 目录
+- [🌟 仓库功能](#-仓库功能)
+- [🧭 仓库结构](#-仓库结构)
+- [🗓️ 更新计划](#️-更新计划)
+- [🧩 阅读笔记模板](#-阅读笔记模板)
+- [🧰 如何参与](#-如何参与)
+- [💬 生活区](./life/README.md)
+- [🧑‍💻 Maintainers](#-maintainers)
+- [🪄 致谢](#-致谢)
+
+---
+
 ## 🌟 仓库功能
 
 - 🗂️ **论文归档**：按汇报主题、汇报人及日期整理阅读过的论文。
 - 📝 **阅读总结**：每篇论文都附有组内成员的阅读笔记与讨论要点。
-- 🔍 **主题索引**：方便检索各领域中的一些代表性论文（如计算机视觉、多模态学习、LLM 等）。
-- 📅 **分享记录**：追踪每周/每月组会的分享人、分享时间及分享内容，便于回顾。
+- 🔍 **主题索引**：方便检索各领域中的代表性论文（如计算机视觉、多模态学习、LLM 等）。
+- 📅 **分享记录**：追踪每期组会的分享人、时间及内容，便于回顾。
 - 🤝 **协作机制**：支持大家共同添加、评论、改进阅读笔记。
 
 ---
@@ -37,13 +49,12 @@ paper-reading-list/
 │   ├── bob/
 │   └── ...
 └── resources/             # 阅读辅助资料，如推荐文献、工具、模板等
-│   ├── reading_template.md （每位同学新读一篇论文时，基于该模板新建笔记文件，建议命名：YYYY-MM-DD_<short-title>.md）
-│   ├── reference_links.md   (用于收集整理论文阅读时常用的参考链接、工具和资源网站,所有成员都可以持续补充与更新（建议按类别添加）。)
+│   ├── [阅读模板](./resources/reading_template.md)
+│   ├── [参考链接](./resources/reference_links.md)
 │   └── ...
 │ 
-└── life/  # 💬 生活感悟与实验室趣事留言区
-│   ├── README.md          # 模块说明与留言守则
-│   ├── reflections/       # 科研生活的思考与感悟
+└── [life/ 💬 生活感悟区](./life/README.md)
+│   ├── reflections/
 │   └── ...
 ```
 
@@ -62,7 +73,7 @@ paper-reading-list/
 
 ## 🧩 阅读笔记模板
 
-> 📘 位于 `resources/reading_template.md`
+> 📘 位于 [`resources/reading_template.md`](./resources/reading_template.md)
 
 ```
 # Paper Title
@@ -105,9 +116,9 @@ Your Name
 
 ## 🧑‍💻 Maintainers
 
-- **团队**: [AONE Group]  
-- **负责人**: [Qiao Liu]  
-- **联系邮箱**: [qliu@uestc.edu.cn]
+- **团队**: [AONE实验室 · 电子科技大学](https://www.uestc.edu.cn/)  
+- **负责人**: Qiao Liu  
+- **联系邮箱**: qliu@uestc.edu.cn
 
 ---
 
@@ -115,5 +126,7 @@ Your Name
 
 感谢团队老师以及组内所有成员对阅读活动的积极参与与贡献。  
 让我们一起构建一个高质量、可持续的知识共享平台 🚀  
+
+📎 **更多内容请访问我们的 [生活区 →](./life/README.md)**
 
 > “Reading one paper may inspire a thought; reading a hundred may build a vision.”
